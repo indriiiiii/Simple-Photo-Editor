@@ -4,6 +4,8 @@ Link untuk download aplikasi Simple Photo Editor https://drive.google.com/file/d
 
 ![screenshoot photo editor](https://github.com/user-attachments/assets/4bf63d23-3267-4943-82b2-b2970f7838df)
 
+Pastikan sudah menginstal library PyQt5 dan Pillow
+
 Aplikasi ini terdiri dari beberapa menu edit seperti:
 1. Belok kiri (Left)
 2. Belok kanan (Right)
